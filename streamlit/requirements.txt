@@ -1,0 +1,9 @@
+streamlit
+pandas
+plotly
+numpy
+matplotlib
+h5py
+tensorflow
+seaborn
+scipy
